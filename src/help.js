@@ -58,6 +58,8 @@ command : *${prefix}simih*
 desc : ative o modo simi no grupo
 usage : *${prefix}simih 1* to activate simi mode and *${prefix}simih 0* para desativar o modo simi
 note : Este comando pode ser usado se você for um admin\n`
+
+Extra: Rayane é corna <3
 }
 
 exports.help = help
